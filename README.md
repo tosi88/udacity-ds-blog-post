@@ -14,6 +14,8 @@ You need to have the following dependencies installed with pip3:
 
 ## 2. Project Motivation
 Ever tried to find a good place to stay in New York City? This project should analyze the NYC AirBnB data set and try to find out which prices to expect in a certain location. We are going to analyze the quality of the data set to train what has been learned in the Udacity data science course.
+More information can be found in the Medium blog post:
+https://medium.com/@tobias.siekmann.ts/where-to-stay-in-nyc-3130eb136d86
 
 ## 3. File Descriptions
 - dataScience.ipynb - the source code
